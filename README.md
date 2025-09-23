@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @SubraiSambary
-- 👀 I’m interested in GitHub
-- 🌱 I’m currently learning Github
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me ? - Github
+👋 Hi, I’m Subrai Sambary  
 
-Github!
+💻 I’m a Software Engineer with experience in enterprise solutions, currently working in Pune, India.  
+🎓 Alumnus of Shree Damodar College of Commerce & Economics, Goa.  
+⚙️ Skilled in cloud technologies, solution architecture, and DevOps practices.  
+📚 Passionate about learning, building scalable systems, and sharing knowledge through projects.  
+🚀 Exploring AWS, automation, and modern infrastructure as code (IaC).  
 
-<!---
-SubraiSambary/SubraiSambary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/subraisambary)
